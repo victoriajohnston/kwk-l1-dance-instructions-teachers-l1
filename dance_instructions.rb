@@ -8,3 +8,6 @@ def base_footwork
   #finish step 3
 
 end
+
+def skip_step(starting_foot)
+  puts "Lower"
